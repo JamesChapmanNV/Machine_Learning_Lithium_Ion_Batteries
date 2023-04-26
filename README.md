@@ -3,10 +3,10 @@
 ********IN PROGRESS*******
 
 DATA AVAILABILITY
-(https://www.data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+(https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
 
 DATA PRE-PROCESSING CODE
-(https://www.github.com/rdbraatz/data-driven-prediction-ofbattery-)
+(https://www.github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation)
 
 (https://www.nature.com/articles/s41560-019-0356-8)
 
