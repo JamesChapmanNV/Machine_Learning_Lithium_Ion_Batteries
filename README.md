@@ -1,4 +1,4 @@
-# Machine Learning Methods for Early Prediction of End-of-Life for Lithium-ion Batteries
+# Supervised Regression using SVR and Neural Networks for Early Prediction of End-of-Life for Lithium-ion Batteries
 
 ********WORK IN PROGRESS*******
 
