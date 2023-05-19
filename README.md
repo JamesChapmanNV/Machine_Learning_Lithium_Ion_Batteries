@@ -14,5 +14,5 @@ DATA AVAILABILITY<br>
 
 [] Attia, P. M., Severson, K. A., & Witmer, J. D. (2021). Statistical learning for accurate and interpretable battery lifetime prediction. Journal of The Electrochemical Society, 168(9), 090547. (https://www.doi.org/10.1149/1945-7111/ac2704)
 
-[] Xu, P., & Lu, Y. (2022). Predicting Li-ion Battery Cycle Life with LSTM RNN. arXiv preprint arxiv.org/abs/2207.03687
+[] Xu, P., & Lu, Y. (2022). Predicting Li-ion Battery Cycle Life with LSTM RNN. arXiv preprint (https://www.arxiv.org/abs/2207.03687)
 
